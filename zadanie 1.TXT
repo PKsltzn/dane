@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+ <head>
+<title>Strona</title>
+  <meta http-equiv="Contet-Type content = "texthtml; charset=UTF-8">
+  <meta http-equiv="Contet-Language content = "pl">
+Imię i Nazwisko: Piotr Kołodziej 
+<br>Klasa: 3D
+<br>numer: 13
+<br>adres e-mail: p.kolodziej.508@sltzn.katowice.pl
+</body>
+</html>
