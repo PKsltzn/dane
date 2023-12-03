@@ -1,4 +1,4 @@
-Cześć
+Cześć,
 Nazywam się Piotr Kołodziej uczęszczam do 3D klasy technikum w Katowicach
 
 Adres e-mail:
