@@ -1,5 +1,5 @@
 Cześć,
-Nazywam się Piotr Kołodziej uczęszczam do 3D klasy technikum w Katowicach
+nazywam się Piotr Kołodziej uczęszczam do 3D klasy technikum w Katowicach
 
-Adres e-mail:
+adres e-mail:
 p.kolodziej.508@sltzn.katowice.pl
