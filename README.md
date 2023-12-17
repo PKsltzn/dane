@@ -1,5 +1,4 @@
-Cześć,
-nazywam się Piotr Kołodziej uczęszczam do 3D klasy technikum w Katowicach
+Piotr Kołodziej 3D  nr 13
 
 Zadania:
 
