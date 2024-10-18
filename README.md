@@ -1,4 +1,4 @@
-Piotr Kołodziej 3D  nr 13
+Piotr Kołodziej 4D  nr 13
 
 Zadania:
 
