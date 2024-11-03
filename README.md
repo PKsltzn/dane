@@ -12,3 +12,5 @@ Zadania:
 <a href='https://pksltzn.github.io/L10/'>֍ L10 </a> <br>
 <a href='https://pksltzn.github.io/L11/'>֍ L11 </a> <br>
 <a href='https://pksltzn.github.io/L12/'>֍ L12 </a> <br>
+<a href="https://pksltzn.github.io/L13/">֍ L12 </a> <br>
+ 
